@@ -14,6 +14,15 @@ https://www.youtube.com/watch?v=Xz_vNk3_0rc
   <img src="image/ticket-1.jpg" alt="POS Direct Print Pro 1" width="300" />
   <img src="image/ticket-2.jpg" alt="POS Direct Print Pro 2" width="300" />
 </p>
+
+<p align="center">
+  <img src="image/setup-1.png" alt="POS Direct Print Pro 1" width="300" />
+  <img src="image/setup-2.png" alt="POS Direct Print Pro 2" width="300" />
+  <img src="image/setup-3.png" alt="POS Direct Print Pro 3" width="300" />
+  <img src="image/setup-4.png" alt="POS Direct Print Pro 4" width="300" />
+  <img src="image/setup-ssl.png" alt="POS Direct Print Pro SSL" width="300" />
+</p>
+
 # 📬 Support
 
 If you need support or customization, feel free to contact us.
@@ -23,5 +32,6 @@ If you need support or customization, feel free to contact us.
 - **Telegram:** https://t.me/wdusolution
 - **Email:** wdusolution@gmail.com
 - **GitHub:** https://github.com/wdusolution
+- - **Website:** https://weodu.com
 
 ---
