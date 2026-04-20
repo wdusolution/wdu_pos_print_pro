@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=Xz_vNk3_0rc
 If you need support or customization, feel free to contact us.
 
 ## Contact
+- **Link:** https://weodu.com/es/shop/posprinterpro-6?attribute_values=4
 - **YouTube Demo:** https://www.youtube.com/watch?v=Xz_vNk3_0rc
 - **Telegram:** https://t.me/wdusolution
 - **Email:** wdusolution@gmail.com
